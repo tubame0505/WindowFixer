@@ -22,7 +22,7 @@ namespace Windowfixer
             notifyIcon = new NotifyIcon();
             notifyIcon.Icon = Properties.Resources.monitor_computer_13980;
             notifyIcon.Visible = true;
-            notifyIcon.Text = "WindowFixer © 2024 つばめ";
+            notifyIcon.Text = "WindowFixer © 2024 tubame0505";
 
             contextMenuStrip = new ContextMenuStrip();
             ToolStripMenuItem toolStripMenuItem = new ToolStripMenuItem();
